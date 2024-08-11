@@ -20,4 +20,5 @@ Welcome to my GitHub repository where I upload all the resources related to my s
 |      |                                                                 | - [Exercise](https://github.com/haidwg/rnd-hooman-/tree/main/03_Search/02%20Excercise)                                                                                                                                                       |
 |      |                                                                 | - [Additional Material](https://github.com/haidwg/rnd-hooman-/blob/main/100_Additional_Material/03%20Excercise/Exam%2023T2%20FCruz.pdf)
 | **8** | [YouTube Link](https://youtu.be/AGic_7IAPiM)                   | - [Tutorial](https://github.com/haidwg/rnd-hooman-/tree/main/04_Natural_Language_Processing/01%20Tutorial)                                                                                                     |
+| **9** | [YouTube Link](https://youtu.be/dI2i3ecKC6I)                   | - [Tutorial](https://github.com/haidwg/rnd-hooman-/tree/main/05_Computer_Vision/01%20Tutorial)                                                                                                     |
 
