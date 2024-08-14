@@ -22,4 +22,6 @@ Welcome to my GitHub repository where I upload all the resources related to my s
 | **8** | [YouTube Link](https://youtu.be/AGic_7IAPiM)                   | - [Tutorial](https://github.com/haidwg/rnd-hooman-/tree/main/04_Natural_Language_Processing/01%20Tutorial)                                                                                                     |
 | **9** | [YouTube Link](https://youtu.be/dI2i3ecKC6I)                   | - [Tutorial](https://github.com/haidwg/rnd-hooman-/tree/main/05_Computer_Vision/01%20Tutorial)                                                                                                     |
 | **10** | [YouTube Link](https://youtu.be/4-gKLQwtABY)                  | - [Tutorial](https://github.com/haidwg/rnd-hooman-/tree/main/06_Uncertain_Reasoning/01%20Tutorial)                                                                                                     |
+| **11** | [YouTube Link](https://youtu.be/5XsAVYfi2WA)                  | - [Cheatsheet](https://github.com/haidwg/rnd-hooman-/blob/main/100_Additional_Material/00%20Cheatsheet/COMP9414_Cheatsheet_AI_Theory.pdf)                                                                                                     |
+
 
