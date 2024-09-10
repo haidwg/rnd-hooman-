@@ -24,5 +24,6 @@ Welcome to my GitHub repository where I upload all the resources related to my s
 | **10** | [YouTube Link](https://youtu.be/4-gKLQwtABY)                  | - [Tutorial](https://github.com/haidwg/rnd-hooman-/tree/main/06_Uncertain_Reasoning/01%20Tutorial)                                                                                                     |
 | **11** | [YouTube Link](https://youtu.be/5XsAVYfi2WA)                  | - [Cheatsheet](https://github.com/haidwg/rnd-hooman-/blob/main/100_Additional_Material/00%20Cheatsheet/COMP9414_Cheatsheet_AI_Theory.pdf)                                                                                                     |
 | **12** | [YouTube Link](https://youtu.be/mKNKpwlfa74)                  | - [Assignment](https://github.com/haidwg/rnd-hooman-/tree/main/01_Reinforcement_Learning/03%20Assignment)                                                                                                     |
+| **13** | [YouTube Link](https://youtu.be/y5WcaoISN-0)                  | - [Lecture](https://github.com/haidwg/rnd-hooman-/blob/main/01_Reinforcement_Learning/00%20Lecture/COMP9414%20Week%2010%20-%20Human-aligned%20intelligent%20robotics.pdf)                                                                                                     |
 
 
